@@ -5,21 +5,27 @@
  */
 body {
   overflow-x: hidden;
-  font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #4d4d4d 
 }
 .dark-background  {
   background-color: #00618c;
 }
 .text-muted {
-  color: #777777;
+  color: #4d4d4d;
 }
 .text-primary {
-  color: #181818 ;
+  color: #4d4d4d ;
 }
 p {
-  color: #7e7e7e ;
-  font-size: 14px;
-  line-height: 1.75;
+  color: #4d4d4d ;
+  font-size: 16px;
+  line-height: 2;
+  margin:10px 0;
+}
+li {
+  margin:10px 0;
 }
 p.large {
   font-size: 16px;
