@@ -1,2 +1,2 @@
 # website
-Official Website of the IoP Token
+Official Website of the IoP Project
